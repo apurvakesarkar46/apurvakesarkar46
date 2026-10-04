@@ -68,106 +68,145 @@ Cloud & Tools
 
 <p>  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vscode,jupyter&theme=dark"/> </a> </p>
 
-🧠 AI & Data Skills
-Area	Skills
-Machine Learning	Classification, prediction, preprocessing, model evaluation
-Data Analytics	Data cleaning, EDA, visualization, data exploration
-Python	NumPy, Pandas, Matplotlib, Scikit-learn
-Deep Learning	CNN fundamentals and image classification
-Computer Vision	Image classification and analysis
-SQL	Queries, filtering, aggregation, joins, database operations
-Cloud	AWS, Azure and cloud computing fundamentals
-🚀 Featured Projects
-🧠 NeuroTrack — Brain MRI Analysis
+## 🧠 AI & Data Skills
 
-An AI-assisted application focused on brain MRI image classification and structured reporting.
+| Area | Skills |
+|---|---|
+| **Machine Learning** | Classification, prediction, preprocessing, model evaluation |
+| **Data Analytics** | Data cleaning, EDA, visualization, feature analysis |
+| **Python** | NumPy, Pandas, Matplotlib, Scikit-learn |
+| **Deep Learning** | CNN, image classification |
+| **Computer Vision** | Image analysis, image classification |
+| **SQL & Databases** | SQL, MySQL, SQLite, joins, aggregation |
+| **Cloud Technologies** | AWS, Azure, Firebase, cloud computing |
+| **AI Applications** | ML integration, intelligent application development |
 
-Technologies:
 
-Python Flask React TypeScript TensorFlow SQLite Firebase
+## 🚀 Featured Projects
 
-Key Features:
+### 🧠 NeuroTrack — Brain MRI Analysis & Secure Reporting
 
-MRI image upload
-CNN-based image classification
-Grad-CAM visualization
-Patient profiles and timeline
-AI-assisted analysis
-PDF report generation
-Secure report sharing
-Multilingual reporting concepts
-🩺 Diabetes Prediction Using Machine Learning
+An AI-assisted healthcare application designed for **brain MRI image classification, explainable AI, and structured patient reporting**.
 
-A Machine Learning project focused on predicting diabetes outcomes using patient health data.
+**Technologies**
 
-Technologies:
+`Python` `Flask` `React` `TypeScript` `TensorFlow` `SQLite` `Firebase`
 
-Python Pandas NumPy Matplotlib Scikit-learn
+**Key Features**
 
-Key Areas:
+- 🧠 Brain MRI image upload and classification
+- 🔬 CNN-based image classification
+- 📊 Grad-CAM explainability visualization
+- 👤 Patient profiles and medical timeline
+- 📄 Automated PDF report generation
+- 🔐 Secure report sharing
+- 🌐 Multilingual reporting support
+- ⚙️ Flask REST API backend
+- 💻 React + TypeScript frontend
+- 🗄️ SQLite-based data management
 
-Data preprocessing
-Exploratory Data Analysis
-Feature selection
-Data visualization
-Model training
-Prediction
-Model evaluation
-🚗 Car Price Prediction
+**Skills Demonstrated**
 
-A Machine Learning project developed to predict car prices using relevant vehicle features.
+`Machine Learning` `Computer Vision` `Deep Learning` `Full-Stack Development` `Database Management` `AI Application Development`
 
-Technologies:
+---
 
-Python Pandas NumPy Scikit-learn
+### 🩺 Diabetes Prediction Using Machine Learning
 
-Key Areas:
+A Machine Learning project focused on **predicting diabetes outcomes from patient health measurements** using a structured healthcare dataset.
 
-Data preprocessing
-Feature analysis
-Regression
-Model training
-Prediction
-Evaluation
-🛒 E-Commerce SQL Database
+**Technologies**
 
-A relational database project designed to model e-commerce operations and practice SQL-based analytics.
+`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-Technologies:
+**Key Features**
 
-MySQL SQL MySQL Workbench
+- 📥 Dataset loading and exploration
+- 🧹 Data preprocessing and cleaning
+- 📊 Exploratory Data Analysis
+- 📈 Data visualization
+- 🔎 Feature analysis and selection
+- ⚙️ Feature standardization
+- 🤖 Machine Learning model training
+- 🎯 Diabetes prediction
+- 📏 Model evaluation
 
-Key Areas:
+**Skills Demonstrated**
 
-Customer management
-Product management
-Order management
-Order items
-Payment records
-SQL queries
-Aggregation
-Filtering
-Joins
-Business analytics
-📄 VeriDoc — Document Verification
+`Python` `Data Analytics` `Machine Learning` `Data Preprocessing` `EDA` `Data Visualization` `Model Evaluation`
 
-A document verification system focused on detecting document changes and maintaining document version history.
+---
 
-Technologies:
+### 🚗 Car Price Prediction
 
-Python Flask SQLite SHA-256
+A Machine Learning project developed to **predict vehicle prices based on relevant vehicle features**.
 
-Key Areas:
+**Technologies**
 
-Document upload
-Document verification
-SHA-256 hashing
-Version history
-Database storage
-Document management
-💼 Internship Experience
-AI & Machine Learning + Data Science & Analytics Intern
+`Python` `Pandas` `NumPy` `Scikit-learn`
 
+**Key Features**
+
+- 📊 Dataset analysis
+- 🧹 Data preprocessing
+- 🔎 Feature analysis
+- 🤖 Regression-based Machine Learning
+- 🎯 Price prediction
+- 📈 Model evaluation
+
+**Skills Demonstrated**
+
+`Python` `Machine Learning` `Regression` `Data Analysis` `Predictive Analytics`
+
+---
+
+### 🛒 E-Commerce SQL Database & Analytics
+
+A relational database project designed to model **customers, products, orders, order items, and payments** while practicing SQL-based business analytics.
+
+**Technologies**
+
+`MySQL` `SQL` `MySQL Workbench`
+
+**Key Features**
+
+- 👥 Customer management
+- 📦 Product management
+- 🛍️ Order management
+- 🔗 Relational table design
+- 💳 Payment records
+- 🔍 Filtering and searching
+- 📊 Aggregation and grouping
+- 🔗 SQL joins
+- 📈 Business analytics queries
+
+**Skills Demonstrated**
+
+`SQL` `Database Design` `Relational Databases` `Data Analysis` `Business Analytics`
+
+---
+
+### 📄 VeriDoc — Document Verification System
+
+A web-based document verification system designed to **detect document changes and maintain document version history using cryptographic hashing**.
+
+**Technologies**
+
+`Python` `Flask` `SQLite` `SHA-256`
+
+**Key Features**
+
+- 📤 Document upload
+- 🔍 Document verification
+- 🔐 SHA-256 hash generation
+- 🗂️ Version history
+- 🗄️ Database-backed storage
+- 🌐 Flask web application
+- 📋 Document management
+
+**Skills Demonstrated**
+
+`Python` `Flask` `SQLite` `Cryptographic Hashing` `Web Development`
 InternPe
 
 Virtual Internship — 2026
