@@ -48,14 +48,12 @@ Bachelor of Engineering — Computer Science & Engineering
 
 2023 – 2027
 
-🛠️ Technical Skills
-Programming & Data
+## 🛠️ Technical Skills
 
-<p>  <img src="https://skillicons.dev/icons?i=python,java, sql&theme=dark"/> </a> </p>
+### Programming & Data
 
-Data Analytics & AI/ML
 <p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,sql&theme=dark"/>
 </p>
 
 Web Development
