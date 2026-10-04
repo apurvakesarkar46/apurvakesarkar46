@@ -1,11 +1,7 @@
 # 👋 Hi, I'm Apurva Kesarkar
 
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/ed394036-41ff-46a8-9201-bb43cef1147d"
-    alt="Profile visual"
-    width="1080"
-  />
+  <img src="https://github.com/user-attachments/assets/ed394036-41ff-46a8-9201-bb43cef1147d" width="250" />
 </p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=Apurva%20Kesarkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
