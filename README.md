@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Apurva Kesarkar</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=Building%20Practical%20Technology&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+AI+%2F+ML+%7C+Data+Engineering;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+AI+%2F+ML+%7C+Data+Engineering;Python+%7C+SQL+%7C+Machine+Learning;Cloud+Technologies+%7C+AWS+%7C+Azure;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
