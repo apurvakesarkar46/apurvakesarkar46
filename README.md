@@ -51,19 +51,19 @@ Bachelor of Engineering — Computer Science & Engineering
 🛠️ Technical Skills
 Programming & Data
 
-<p> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql&theme=dark"/> </a> </p>
+<p>  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark"/> </a> </p>
 
 Web Development
 
-<p> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite&theme=dark"/> </a> </p>
+<p>  <img src="https://skillicons.dev/icons?i=html,css,react,vite&theme=dark"/> </a> </p>
 
 Backend & Databases
 
-<p> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,sqlite,firebase&theme=dark"/> </a> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,flask,nodejs,mysql,sqlite,firebase&theme=dark"/> </a> </p>
 
 Cloud & Tools
 
-<p> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vscode,jupyter&theme=dark"/> </a> </p>
+<p>  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vscode,jupyter&theme=dark"/> </a> </p>
 
 🧠 AI & Data Skills
 Area	Skills
