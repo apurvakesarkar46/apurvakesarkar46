@@ -1,133 +1,92 @@
 <h1 align="center">Hi 👋, I'm Apurva Kesarkar</h1>
 
 <p align="center">
-  <img
-    src="./assets/apurva-profile.svg"
-    width="300"
-    alt="Apurva Kesarkar"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+AI+%2F+ML+%7C+Data+Engineering;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+AI+%2F+ML+%7C+Data+Engineering;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Solutions" alt="Typing SVG"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://github.com/apurvakesarkar46">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## `~/about`
+## `~/` whoami
 
-I'm a **Computer Science & Engineering student** interested in building practical solutions using **data, artificial intelligence, machine learning, and cloud technologies**.
+I'm a **Computer Science & Engineering student** interested in using technology to solve practical problems through **data, artificial intelligence, machine learning, and cloud computing**.
 
-I enjoy learning by building projects — from **machine learning prediction models and SQL databases** to **AI-powered applications and full-stack systems**.
+I enjoy learning by building — from **SQL databases and data analytics projects** to **machine learning models and AI-powered full-stack applications**.
 
-I'm particularly interested in turning data into useful insights and developing technology that solves real-world problems.
-
-```text
-Focus
-├── Data Analytics
-├── Artificial Intelligence & Machine Learning
-├── Data Engineering
-├── Cloud Computing
-├── Python & SQL
-└── Full-Stack Development
-```
+* 🎓 **Education:** B.E. Computer Science & Engineering — JAIN College of Engineering
+* 📊 **Focus:** Data Analytics, Data Science & Data Engineering
+* 🤖 **Exploring:** AI, Machine Learning, Deep Learning & Generative AI
+* ☁️ **Building with:** Python, SQL, Cloud & Full-Stack Technologies
+* 🔨 **Currently building:** Practical data-driven and intelligent applications
 
 ---
 
-## 🎓 Education
+## 🧰 Toolbox
 
-**JAIN College of Engineering**
-
-**Bachelor of Engineering — Computer Science & Engineering**
-
-`2023 – 2027`
-
----
-
-## 🧰 Technical Toolbox
-
-### Programming & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql&theme=dark"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,react,vite,flask,nodejs,sqlite,firebase,aws,azure,git,github,linux,docker,vscode,jupyter,tensorflow&perline=10&theme=dark"/>
 </p>
 
-**Python • SQL • Java • Pandas • NumPy • Matplotlib • Scikit-learn**
+### Data & Programming
 
-### AI / Machine Learning
+`Python` `SQL` `Java` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark"/>
-</p>
+### AI & Machine Learning
 
-**Machine Learning • Deep Learning • CNN • Computer Vision • Predictive Modeling • Data Preprocessing • Model Evaluation • Grad-CAM**
+`Machine Learning` `Deep Learning` `CNN` `Computer Vision` `Predictive Modeling` `Model Evaluation` `Grad-CAM`
 
-### Web Development
+### Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,flask,nodejs&theme=dark"/>
-</p>
-
-**HTML • CSS • React • TypeScript • Vite • Flask • REST APIs**
+`HTML` `CSS` `React` `TypeScript` `Vite` `Flask` `REST APIs`
 
 ### Databases & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,aws,azure&theme=dark"/>
-</p>
-
-**MySQL • SQLite • Firebase • AWS • Azure • Cloud Computing**
+`MySQL` `SQLite` `Firebase` `AWS` `Azure` `Cloud Computing`
 
 ### Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,jupyter&theme=dark"/>
-</p>
-
-**Git • GitHub • Linux • Docker • VS Code • Jupyter**
+`Git` `GitHub` `Linux` `Docker` `VS Code` `Jupyter`
 
 ---
 
-## 🧠 What I Work With
+## 🧠 Areas I Work In
 
-| Area                 | Skills                                                        |
-| -------------------- | ------------------------------------------------------------- |
-| **Data Analytics**   | Data Cleaning • EDA • Visualization • Feature Analysis        |
-| **Machine Learning** | Classification • Regression • Prediction • Model Evaluation   |
-| **Deep Learning**    | CNN • Image Classification                                    |
-| **Computer Vision**  | MRI Analysis • Image Processing • Classification              |
-| **Python**           | Pandas • NumPy • Matplotlib • Scikit-learn                    |
-| **SQL**              | MySQL • SQLite • Joins • Aggregation • Filtering              |
-| **Data Engineering** | Data Processing • Databases • Data Pipelines • Cloud Concepts |
-| **Cloud**            | AWS • Azure • Firebase                                        |
-| **Web Development**  | React • TypeScript • Flask • REST APIs                        |
-| **AI Applications**  | ML Integration • Explainable AI • Intelligent Applications    |
+| Area                    | What I Work With                                         |
+| ----------------------- | -------------------------------------------------------- |
+| 📊 **Data Analytics**   | Data Cleaning, EDA, Visualization, Feature Analysis      |
+| 🤖 **Machine Learning** | Classification, Regression, Prediction, Model Evaluation |
+| 🧠 **Deep Learning**    | CNN, Image Classification                                |
+| 👁️ **Computer Vision** | Image Analysis, MRI Classification                       |
+| 🗄️ **SQL & Databases** | MySQL, SQLite, Joins, Aggregation                        |
+| ☁️ **Cloud**            | AWS, Azure, Firebase                                     |
+| 🌐 **Full-Stack**       | React, TypeScript, Flask, REST APIs                      |
+| 🔧 **Data Engineering** | Data Processing, Databases, Cloud Concepts               |
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
-## 🧠 NeuroTrack — Brain MRI Analysis & Secure Reporting
+## 🧠 NeuroTrack
 
-An AI-assisted application focused on **brain MRI classification, explainable AI, patient management, and secure medical reporting**.
+**Brain MRI Analysis & Secure Reporting**
+
+An AI-assisted application focused on brain MRI classification, explainable AI, patient management, and secure medical reporting.
 
 **Stack**
 
 `Python` `Flask` `React` `TypeScript` `TensorFlow` `SQLite` `Firebase`
 
-**Highlights**
+**Built with**
 
-* 🧠 Brain MRI image upload and classification
-* 🔬 CNN-based image classification
+* 🧠 CNN-based MRI classification
 * 📊 Grad-CAM explainability
 * 👤 Patient profiles and timeline
 * 📄 Automated PDF reports
@@ -135,7 +94,6 @@ An AI-assisted application focused on **brain MRI classification, explainable AI
 * 🌐 Multilingual reporting
 * ⚙️ Flask REST API
 * 💻 React + TypeScript frontend
-* 🗄️ SQLite database
 
 **Focus:** `Deep Learning` `Computer Vision` `Explainable AI` `Full-Stack Development`
 
@@ -143,20 +101,20 @@ An AI-assisted application focused on **brain MRI classification, explainable AI
 
 ## 🩺 Diabetes Prediction
 
-A machine learning project focused on predicting diabetes outcomes from structured healthcare data.
+Machine learning project for predicting diabetes outcomes using structured healthcare data.
 
 **Stack**
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Scikit-learn`
 
-**Highlights**
+**Built with**
 
 * Dataset exploration
 * Data cleaning and preprocessing
 * Exploratory Data Analysis
 * Feature analysis
 * Feature standardization
-* Machine learning model training
+* Machine learning
 * Prediction
 * Model evaluation
 
@@ -166,13 +124,13 @@ A machine learning project focused on predicting diabetes outcomes from structur
 
 ## 🚗 Car Price Prediction
 
-A machine learning project that predicts vehicle prices based on relevant vehicle features.
+Machine learning project for predicting vehicle prices from relevant vehicle features.
 
 **Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn`
 
-**Highlights**
+**Built with**
 
 * Dataset analysis
 * Data preprocessing
@@ -185,69 +143,68 @@ A machine learning project that predicts vehicle prices based on relevant vehicl
 
 ---
 
-## 🛒 E-Commerce SQL Database & Analytics
+## 🛒 E-Commerce SQL Database
 
-A relational database project designed to model and analyze an e-commerce business using SQL.
+A relational database project designed to model an e-commerce system and perform business-oriented SQL analysis.
 
 **Stack**
 
 `MySQL` `SQL` `MySQL Workbench`
 
-**Highlights**
+**Built with**
 
 * Customer management
 * Product management
-* Order management
+* Orders
 * Order items
-* Payment records
-* Relational database design
+* Payments
+* Relational table design
 * SQL joins
-* Filtering and aggregation
+* Aggregation
+* Filtering
 * Business analytics queries
 
-**Focus:** `SQL` `Database Design` `Data Analysis` `Business Analytics`
+**Focus:** `SQL` `Database Design` `Data Analysis`
 
 ---
 
-## 📄 VeriDoc — Document Verification System
+## 📄 VeriDoc
 
-A web-based document verification system using cryptographic hashing and version management.
+**Document Verification System**
+
+A Flask-based document verification system using cryptographic hashing and version management.
 
 **Stack**
 
 `Python` `Flask` `SQLite` `SHA-256`
 
-**Highlights**
+**Built with**
 
 * Document upload
 * Document verification
-* SHA-256 hash generation
+* SHA-256 hashing
 * Version history
 * Database-backed storage
 * Document management
-* Flask web application
 
-**Focus:** `Web Development` `Database Management` `Cryptographic Hashing`
+**Focus:** `Python` `Flask` `SQLite` `Web Development`
 
 ---
 
-# 💼 Internship
+# 💼 Experience
 
-## 🤖 InternPe — AI & Machine Learning + Data Science & Analytics
+### 🤖 InternPe — AI & Machine Learning + Data Science & Analytics
 
-**Virtual Internship • 2026**
+**Virtual Internship · 2026**
 
 Worked on practical Machine Learning and Data Science tasks involving:
 
-* Data preprocessing
-* Exploratory Data Analysis
-* Machine Learning model development
-* Predictive analytics
-* Model evaluation
-* Diabetes Prediction
-* Car Price Prediction
+`Data Preprocessing` · `EDA` · `Machine Learning` · `Predictive Analytics` · `Model Evaluation`
 
-**Skills:** `Python` `Data Analysis` `Machine Learning` `Predictive Modeling`
+Projects completed during the internship included:
+
+* 🩺 Diabetes Prediction
+* 🚗 Car Price Prediction
 
 ---
 
@@ -255,28 +212,22 @@ Worked on practical Machine Learning and Data Science tasks involving:
 
 ### ☁️ AWS Academy — Cloud Foundations
 
-Built foundational knowledge of cloud computing, AWS infrastructure, and core cloud services.
+Foundational learning in **cloud computing, AWS infrastructure, and core cloud concepts**.
 
 ### 🧠 IBM — Enterprise Design Thinking Practitioner
 
-Learned user-centered problem solving, empathy-driven design, ideation, prototyping, and iterative solution development.
+Focused on **user-centered problem solving, empathy, ideation, prototyping, and iterative solution development**.
 
 ### 🐍 Infosys Springboard
 
 * Basics of Python
 * Data Analysis with Python
 
-Strengthened programming, data manipulation, analysis, and visualization fundamentals.
+### 🤖 AI & Machine Learning
 
-### 🤖 Artificial Intelligence & Machine Learning
+Learning areas include:
 
-Learning and applying concepts related to:
-
-* Artificial Intelligence
-* Machine Learning
-* Generative AI
-* Intelligent applications
-* AI-based problem solving
+`Artificial Intelligence` `Machine Learning` `Generative AI` `Deep Learning` `AI Applications`
 
 ### 📊 Additional Learning
 
@@ -287,30 +238,33 @@ Learning and applying concepts related to:
 # 📚 Currently Learning
 
 ```text
-01  Advanced Machine Learning
-02  Data Analytics
-03  Data Engineering
-04  Cloud Computing
-05  Full-Stack Development
-06  SQL & Database Systems
-07  Generative AI
-08  Deep Learning
+Data Analytics
+Data Engineering
+Advanced Machine Learning
+Deep Learning
+Generative AI
+Cloud Computing
+SQL & Database Systems
+Full-Stack Development
 ```
 
 ---
 
-# 🎯 Career Direction
+# 🎯 Career Interests
 
-I'm interested in opportunities where I can combine **programming, data, and intelligent technologies** to solve practical problems.
+I'm interested in opportunities where I can combine **programming, data, and intelligent technologies** to build practical solutions.
 
-**Interested in:**
-
-`Data Analytics` `Data Science` `Artificial Intelligence` `Machine Learning` `Data Engineering` `Software Development` `Cloud Computing`
+**Data Analytics**
+**Data Science**
+**Artificial Intelligence & Machine Learning**
+**Data Engineering**
+**Software Development**
+**Cloud Computing**
 
 ---
 
 <p align="center">
-  <i>Building. Learning. Analyzing. Improving.</i>
+  <b>Learn → Build → Analyze → Improve</b>
 </p>
 
 <p align="center">
