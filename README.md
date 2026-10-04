@@ -1,4 +1,4 @@
-👋 Hi, I'm Apurva Kesarkar
+<h1 >👋 Hi, I'm Apurva Kesarkar</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=Building%20Practical%20Technology&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
