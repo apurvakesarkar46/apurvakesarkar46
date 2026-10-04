@@ -1,12 +1,33 @@
 👋 Hi, I'm Apurva Kesarkar
 
-<p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=Apurva%20Kesarkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> </a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=180&section=header&text=Building%20Practical%20Technology&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<p align="center">  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+%7C+AI+%2F+ML;Python+%7C+SQL+%7C+Cloud+Computing;Building+Practical+Technology+Solutions" alt="Typing SVG"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering;Data+Analytics+%7C+AI+%2F+ML+%7C+Cloud+Technologies;Python+%7C+SQL+%7C+Machine+Learning;Building+Data-Driven+Technology+Solutions" alt="Typing SVG"/>
+</p>
 
-<p align="center"> <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-6366F1?style=for-the-badge&logo=academia&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://img.shields.io/badge/Data%20Analytics-4F46E5?style=for-the-badge&logo=databricks&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://img.shields.io/badge/AI%20%2F%20ML-8B5CF6?style=for-the-badge&logo=google-cloud&logoColor=white"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Science%20%26%20Engineering-6366F1?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-4F46E5?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-8B5CF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-312E81?style=for-the-badge&logo=icloud&logoColor=white"/>
+</p>
 
-<p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/apurvakesarkar46">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 👨‍💻 About Me
 
