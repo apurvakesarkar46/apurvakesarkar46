@@ -51,7 +51,12 @@ Bachelor of Engineering — Computer Science & Engineering
 🛠️ Technical Skills
 Programming & Data
 
-<p>  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark"/> </a> </p>
+<p>  <img src="https://skillicons.dev/icons?i=python,java, sql&theme=dark"/> </a> </p>
+
+Data Analytics & AI/ML
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow&theme=dark"/>
+</p>
 
 Web Development
 
