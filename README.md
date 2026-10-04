@@ -305,12 +305,3 @@ Interested in building practical, data-driven and intelligent technology solutio
 **Data Analytics • Data Science • Artificial Intelligence • Machine Learning • Data Engineering • Software Development • Cloud Computing**
 
 ---
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apurvakesarkar46&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurvakesarkar46&theme=tokyonight&hide_border=true" height="180"/>
-</p>8004a5422"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvakesarkar46&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/> </a> </p>
-
-<p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=100&section=footer"/> </a> </p> ```
