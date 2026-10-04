@@ -207,64 +207,110 @@ A web-based document verification system designed to **detect document changes a
 **Skills Demonstrated**
 
 `Python` `Flask` `SQLite` `Cryptographic Hashing` `Web Development`
-InternPe
 
-Virtual Internship — 2026
 
-Worked on practical Machine Learning and Data Science tasks involving:
 
-Data preprocessing
-Machine Learning models
-Predictive analytics
-Diabetes Prediction
-Car Price Prediction
-Data analysis
-🏆 Certifications & Learning
-☁️ AWS
+## 💼 Internship Experience
 
-AWS Academy Cloud Foundations
+### 🤖 InternPe — AI & Machine Learning + Data Science & Analytics
+**Virtual Internship | 2026**
 
-🤖 IBM
+Worked on practical Machine Learning and Data Science tasks, gaining hands-on experience in:
 
-Enterprise Design Thinking Practitioner
+- Data preprocessing and cleaning
+- Exploratory Data Analysis
+- Machine Learning model development
+- Predictive analytics
+- Model evaluation
+- **Diabetes Prediction** using Machine Learning
+- **Car Price Prediction** using Machine Learning
 
-🐍 Infosys Springboard
-Basics of Python
-Data Analysis with Python
-🧠 AI & Machine Learning
-AI Fundamentals
-AI & Machine Learning learning programs
-Generative AI learning
-Data Science & Analytics
-📊 Additional Learning
-Critical Thinking & Problem Solving
-Cloud Computing
-Cybersecurity
-Data Analytics
-📚 Currently Learning
-Advanced Machine Learning
-Data Analytics
-Data Engineering
-Cloud Computing
-Full-Stack Development
-SQL & Database Systems
-Generative AI
-Deep Learning
-🎯 Career Interests
+**Skills Gained:** Python • Data Analysis • Machine Learning • Predictive Modeling
 
-I am interested in opportunities related to:
+---
 
-Data Analytics
-Data Science
-Artificial Intelligence
-Machine Learning
-Data Engineering
-Software Development
-Cloud Computing
-📈 GitHub Analytics
+## 🏆 Certifications & Professional Learning
 
-<p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://github-readme-stats.vercel.app/api?username=apurvakesarkar46&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C9D1D9&ring_color=7C3AED" height="180"/> </a> </p>
+### ☁️ AWS Academy — Cloud Foundations
+**Focus:** Cloud Computing & AWS Fundamentals
 
-<p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvakesarkar46&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/> </a> </p>
+- Learned fundamental cloud concepts and services
+- Explored AWS cloud infrastructure and core services
+- Developed foundational knowledge of cloud computing
+
+**Value:** Strong foundation in **AWS and Cloud Technologies**
+
+---
+
+### 🧠 IBM — Enterprise Design Thinking Practitioner
+**Focus:** Design Thinking & Problem Solving
+
+- Learned user-centered problem solving
+- Practiced empathy-driven solution development
+- Explored ideation and prototyping
+- Applied iterative thinking to real-world problems
+
+**Value:** Improved **problem-solving, creativity, collaboration, and solution design**
+
+---
+
+### 🐍 Infosys Springboard
+**Focus:** Python & Data Analysis
+
+- **Basics of Python** — Programming fundamentals and problem solving
+- **Data Analysis with Python** — Data manipulation, analysis and visualization
+
+**Value:** Strengthened **Python programming and data analytics foundations**
+
+---
+
+### 🧠 AI & Machine Learning Learning Programs
+**Focus:** Artificial Intelligence & Machine Learning
+
+- AI fundamentals and core concepts
+- Machine Learning concepts and applications
+- Generative AI fundamentals
+- Practical understanding of AI-based solutions
+
+**Value:** Built a foundation in **AI, Machine Learning and Generative AI**
+
+---
+
+### 📊 Additional Learning
+
+- **Data Analytics** — Data exploration, analysis and visualization
+- **Cloud Computing** — Cloud concepts and technologies
+- **Cybersecurity** — Security fundamentals and awareness
+- **Critical Thinking & Problem Solving** — Analytical and structured thinking
+
+---
+
+## 📚 Currently Learning
+
+- 🤖 Advanced Machine Learning
+- 📊 Data Analytics
+- 🔄 Data Engineering
+- ☁️ Cloud Computing
+- 🌐 Full-Stack Development
+- 🗄️ SQL & Database Systems
+- ✨ Generative AI
+- 🧠 Deep Learning
+
+---
+
+## 🎯 Career Interests
+
+Interested in building practical, data-driven and intelligent technology solutions in:
+
+**Data Analytics • Data Science • Artificial Intelligence • Machine Learning • Data Engineering • Software Development • Cloud Computing**
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apurvakesarkar46&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apurvakesarkar46&theme=tokyonight&hide_border=true" height="180"/>
+</p>8004a5422"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurvakesarkar46&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" height="180"/> </a> </p>
 
 <p align="center"> <a href="https://www.linkedin.com/in/apurva-kesarkar-8004a5422"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6366f1,100:7c3aed&height=100&section=footer"/> </a> </p> ```
