@@ -21,7 +21,7 @@
 
 I'm a **Computer Science & Engineering student** interested in building practical solutions using **data, artificial intelligence, machine learning, and cloud technologies**.
 
-I enjoy learning by building projects — from **machine learning prediction models and SQL databases** to **AI-powered applications and full-stack systems**.
+Building projects — from **machine learning prediction models and SQL databases** to **AI-powered applications and full-stack systems**.
 
 I'm particularly interested in turning data into useful insights and developing technology that solves real-world problems.
 
